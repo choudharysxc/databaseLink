@@ -32,14 +32,7 @@ def Scraper(x):
         i=link.find('@')
         if i > 1:
             final_lst.append(copy)
-    print(final_lst)
-       
-
-            
-
-    
-        
-        
+    print(final_lst)        
  
 Scraper(x)
 
