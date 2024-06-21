@@ -36,9 +36,6 @@ def Scraper(x):
  
 Scraper(x)
 
-
-
-
 for i in final_lst:
     img=[]
     img.append(i)
